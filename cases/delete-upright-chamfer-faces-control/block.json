@@ -1,0 +1,98 @@
+{
+ "features": [
+  {
+   "type": "P.CU",
+   "inputParams": {
+    "id": "P.CU1",
+    "sizeX": 40,
+    "sizeY": 30,
+    "sizeZ": 20,
+    "transform": {
+     "position": [
+      0,
+      0,
+      0
+     ],
+     "rotationEuler": [
+      0,
+      0,
+      0
+     ],
+     "scale": [
+      1,
+      1,
+      1
+     ]
+    },
+    "boolean": {
+     "targets": [],
+     "operation": "NONE"
+    }
+   },
+   "persistentData": {},
+   "timestamp": null
+  },
+  {
+   "type": "CH",
+   "inputParams": {
+    "id": "CH2",
+    "edges": [
+     "P.CU1_NY|P.CU1_PX[0]",
+     "P.CU1_NX|P.CU1_NY[0]",
+     "P.CU1_NX|P.CU1_PY[0]",
+     "P.CU1_PX|P.CU1_PY[0]"
+    ],
+    "distance": 3,
+    "inflate": 0.1,
+    "direction": "AUTO",
+    "debug": "NONE"
+   },
+   "persistentData": {},
+   "timestamp": null
+  }
+ ],
+ "idCounter": 2,
+ "expressions": "//Examples:\nx = 10 + 6; \ny = x * 2;\n\nresolution = 32;\n",
+ "configurator": {
+  "fields": [],
+  "values": {}
+ },
+ "activeWorkbench": "MODELING",
+ "pmiViews": [],
+ "simulation": {
+  "motions": []
+ },
+ "cam": {
+  "machineProfile": {
+   "name": "Generic 3 Axis Mill",
+   "controller": "grbl",
+   "units": "mm",
+   "maxSpindleRPM": 24000,
+   "defaultRapidRate": 2500,
+   "safeParkZ": 15,
+   "tokenSpacer": true,
+   "stripComments": false,
+   "header": "",
+   "footer": ""
+  },
+  "stockProfile": {
+   "mode": "auto",
+   "margin": 6.35,
+   "sizeX": null,
+   "sizeY": null,
+   "sizeZ": null,
+   "offsetX": 0,
+   "offsetY": 0,
+   "offsetZ": 0
+  },
+  "operations": []
+ },
+ "sheets2D": [],
+ "wireHarness": {
+  "connections": [],
+  "routeResults": []
+ },
+ "metadata": {},
+ "assemblyConstraints": [],
+ "assemblyConstraintIdCounter": 0
+}

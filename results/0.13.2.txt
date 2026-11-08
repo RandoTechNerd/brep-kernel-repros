@@ -1,0 +1,28 @@
+PASS  delete-fillet-faces-control
+      result 24000.000 mm³, expected 24000
+FAIL  delete-one-top-chamfer-face
+      result refused: DF DF3: delete_face_and_heal: moved edge 19 leaves face 129 by 3.000e0 (a point of it lies -3.000e0 from the face where the edge lay +0.000e0 from it before the heal) — a blend's end runs into a vertex of a face the heal does not read as its neighbour; refusing rather than re-trimming the face around an edge off it
+PASS  delete-one-upright-chamfer-face-control
+      result 24000.000 mm³, expected 24000
+FAIL  delete-top-chamfer-faces
+      result refused: DF DF3: delete_face_and_heal: moved edge 19 leaves face 129 by 3.000e0 (a point of it lies -3.000e0 from the face where the edge lay +0.000e0 from it before the heal) — a blend's end runs into a vertex of a face the heal does not read as its neighbour; refusing rather than re-trimming the face around an edge off it
+PASS  delete-upright-chamfer-faces-control
+      result 24000.000 mm³, expected 24000
+PASS  intersect-box-starting-on-face-control
+      result 12000.000 mm³, expected 12000
+FAIL  intersect-face-touching
+      result refused: B B3: boolean Intersect on 'P.CU2' failed: boolean assembly: operation produced no boundary faces
+PASS  intersect-shared-planes-control
+      result 6000.000 mm³, expected 6000
+PASS  step-delete-fillet-faces-control
+      result 24000.000 mm³, expected 24000
+FAIL  step-delete-one-top-chamfer-face
+      result refused: DF DF2: delete_face_and_heal: moved edge 21 leaves face 62 by 3.000e0 (a point of it lies -3.000e0 from the face where the edge lay +0.000e0 from it before the heal) — a blend's end runs into a vertex of a face the heal does not read as its neighbour; refusing rather than re-trimming the face around an edge off it
+PASS  step-delete-one-upright-chamfer-face-control
+      result 24000.000 mm³, expected 24000
+FAIL  step-delete-top-chamfer-faces
+      result refused: DF DF2: delete_face_and_heal: moved edge 21 leaves face 62 by 3.000e0 (a point of it lies -3.000e0 from the face where the edge lay +0.000e0 from it before the heal) — a blend's end runs into a vertex of a face the heal does not read as its neighbour; refusing rather than re-trimming the face around an edge off it
+PASS  step-delete-upright-chamfer-faces-control
+      result 24000.000 mm³, expected 24000
+
+8 passed, 5 failed

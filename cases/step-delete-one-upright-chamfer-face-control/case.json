@@ -1,0 +1,15 @@
+{
+  "title": "Delete a single chamfer face, read in from STEP",
+  "histories": {
+    "block": "the part.step in this folder, IMPORT3D (stepText)",
+    "result": "the same, then DF on that chamfer face"
+  },
+  "check": {
+    "type": "volume",
+    "of": "result",
+    "expected": 24000,
+    "tolerance": 0.01
+  },
+  "expect": "heals back to 24000 mm\u00b3",
+  "seen": "0.13.2 refuses: moved edge leaves face"
+}

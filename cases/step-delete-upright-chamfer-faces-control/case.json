@@ -1,0 +1,15 @@
+{
+  "title": "Delete the four chamfer faces of a chamfered block, read in from STEP",
+  "histories": {
+    "block": "the part.step in this folder, IMPORT3D (stepText)",
+    "result": "the same, then DF on the 4 chamfer faces"
+  },
+  "check": {
+    "type": "volume",
+    "of": "result",
+    "expected": 24000,
+    "tolerance": 0.01
+  },
+  "expect": "heals back to the sharp block, 24000 mm\u00b3 (as the fillet control does)",
+  "seen": "0.13.2 refuses: moved edge leaves face"
+}

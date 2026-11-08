@@ -1,0 +1,13 @@
+{
+  "title": "Intersect a block with a box that touches it only on one face",
+  "histories": {
+    "result": "40x30x20 block (0..40) INTERSECT a box at x -50..0, so they share only the plane x = 0"
+  },
+  "check": {
+    "type": "volume",
+    "of": "result",
+    "expected": 0,
+    "tolerance": 0.01
+  },
+  "expect": "an empty result (no solid, or volume 0), not a refusal"
+}

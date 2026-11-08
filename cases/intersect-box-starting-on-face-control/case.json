@@ -1,0 +1,13 @@
+{
+  "title": "Intersect a block with a box that starts exactly on the block's face",
+  "histories": {
+    "result": "40x30x20 block (0..40) INTERSECT a box at x 0..20 that overhangs in y and z"
+  },
+  "check": {
+    "type": "volume",
+    "of": "result",
+    "expected": 12000,
+    "tolerance": 0.01
+  },
+  "expect": "12000 mm\u00b3"
+}
