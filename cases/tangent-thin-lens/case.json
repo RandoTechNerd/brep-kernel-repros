@@ -1,0 +1,13 @@
+{
+  "title": "two r5 balls 9.999999 apart: the lens common to both",
+  "histories": {
+    "result": "two r5 balls 9.999999 apart: the lens common to both"
+  },
+  "check": {
+    "type": "volume",
+    "of": "result",
+    "expected": 7.85398136041925e-12,
+    "relTolerance": 0.000001
+  },
+  "expect": "7.853981360e-12 mm³ (closed form, as brep-bench's tangent/thin-lens)"
+}

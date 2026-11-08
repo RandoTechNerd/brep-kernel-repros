@@ -1,0 +1,869 @@
+{
+ "kernel": "C:/Users/Rando/Claude Play/BrepScript-wt/site-1108/vendor/brep-kernel-rust",
+ "models": {
+  "catalog/phone-stand": {
+   "volume": 106222.01006800783,
+   "solids": 1
+  },
+  "catalog/headphone-hanger": {
+   "volume": 40006.341954373,
+   "solids": 1
+  },
+  "catalog/pen-cup": {
+   "volume": 60374.93582985137,
+   "solids": 1
+  },
+  "catalog/vertical-organizer": {
+   "volume": 170525.00000000006,
+   "solids": 1
+  },
+  "catalog/riser-leg": {
+   "volume": 713884.4444444452,
+   "solids": 2
+  },
+  "catalog/laptop-stand": {
+   "volume": 159663.8163882635,
+   "solids": 2
+  },
+  "catalog/cable-grommet": {
+   "volume": 23216.66427921372,
+   "solids": 2
+  },
+  "catalog/wrist-rest": {
+   "volume": 569995.020284386,
+   "solids": 2
+  },
+  "catalog/note-tray": {
+   "volume": 98381.06950445587,
+   "solids": 3
+  },
+  "catalog/monitor-shelf": {
+   "volume": 142000.00000000003,
+   "solids": 1
+  },
+  "catalog/bookend": {
+   "volume": 444620.0000000001,
+   "solids": 2
+  },
+  "catalog/under-desk-tray": {
+   "volume": 98259.07906116969,
+   "solids": 1
+  },
+  "catalog/tape-dispenser": {
+   "volume": 244621.73969122366,
+   "solids": 16
+  },
+  "catalog/mini-monitor-easel": {
+   "volume": 336946.2167090299,
+   "solids": 2
+  },
+  "catalog/cradle-hook": {
+   "volume": 68000.54055155689,
+   "solids": 1
+  },
+  "catalog/wall-shelf": {
+   "volume": 166891.6525042457,
+   "solids": 1
+  },
+  "catalog/coat-hook": {
+   "volume": 18403.720520951934,
+   "solids": 1
+  },
+  "catalog/key-rack": {
+   "volume": 1541855.7052659667,
+   "solids": 9
+  },
+  "catalog/guitar-hanger": {
+   "volume": 182028.0023427652,
+   "solids": 1
+  },
+  "catalog/french-cleat": {
+   "volume": 80887.15176044211,
+   "solids": 1
+  },
+  "catalog/cleat-hook": {
+   "volume": 49127.52522283598,
+   "solids": 1
+  },
+  "catalog/pegboard-hook": {
+   "volume": 4948.071995589058,
+   "solids": 1
+  },
+  "catalog/pegboard-bin": {
+   "volume": 961.5193836133121,
+   "solids": 6
+  },
+  "catalog/skadis-bin": {
+   "volume": 1917.4500000000007,
+   "solids": 6
+  },
+  "catalog/mail-holder": {
+   "volume": 145231.56616255152,
+   "solids": 1
+  },
+  "catalog/picture-hook": {
+   "volume": 1833.4276242414344,
+   "solids": 1
+  },
+  "catalog/door-hook": {
+   "volume": 18715.51677430236,
+   "solids": 1
+  },
+  "catalog/s-hook": {
+   "volume": 8145.800726926519,
+   "solids": 1
+  },
+  "catalog/stackable-bin": {
+   "volume": 12026.880000000003,
+   "solids": 1
+  },
+  "catalog/drawer-divider": {
+   "volume": 39169.905454545464,
+   "solids": 1
+  },
+  "catalog/battery-organizer": {
+   "volume": 122039.0936195125,
+   "solids": 24
+  },
+  "catalog/card-holder": {
+   "volume": 36465.95199999999,
+   "solids": 1
+  },
+  "catalog/label-holder": {
+   "volume": 4761.6,
+   "solids": 1
+  },
+  "catalog/drawer-cabinet": {
+   "volume": 182601.25649251216,
+   "solids": 4
+  },
+  "catalog/capsule-tube": {
+   "volume": 12585.0316747214,
+   "solids": 2
+  },
+  "catalog/bag-clip": {
+   "volume": 6301.142461125009,
+   "solids": 1
+  },
+  "catalog/measuring-scoop": {
+   "volume": 134867.94317189828,
+   "solids": 3
+  },
+  "catalog/funnel": {
+   "volume": 29287.65631327403,
+   "solids": 1
+  },
+  "catalog/spice-rack": {
+   "volume": 324000.0000000001,
+   "solids": 1
+  },
+  "catalog/spice-drawer": {
+   "volume": 339102.02642422146,
+   "solids": 1
+  },
+  "catalog/pod-tower": {
+   "volume": 57901.902513692556,
+   "solids": 1
+  },
+  "catalog/egg-tray": {
+   "volume": 264443.81576232996,
+   "solids": 12
+  },
+  "catalog/mug-tree": {
+   "volume": 266586.18263579905,
+   "solids": 1
+  },
+  "catalog/bottle-rack": {
+   "volume": 203790.9508442449,
+   "solids": 1
+  },
+  "catalog/cookie-cutter": {
+   "volume": 6366.6022117790335,
+   "solids": 1
+  },
+  "catalog/spoon-rest": {
+   "volume": 5023.360000000002,
+   "solids": 1
+  },
+  "catalog/citrus-juicer": {
+   "volume": 85652.95817755297,
+   "solids": 1
+  },
+  "catalog/toothbrush-stand": {
+   "volume": 51422.786129077256,
+   "solids": 12
+  },
+  "catalog/toothbrush-rack": {
+   "volume": 23418.63875974512,
+   "solids": 11
+  },
+  "catalog/soap-dish": {
+   "volume": 15055.052569927639,
+   "solids": 3
+  },
+  "catalog/toothpaste-squeezer": {
+   "volume": 245143.1368959032,
+   "solids": 3
+  },
+  "catalog/toilet-roll-holder": {
+   "volume": 215624.17258288874,
+   "solids": 6
+  },
+  "catalog/roll-stand": {
+   "volume": 211087.00780514907,
+   "solids": 1
+  },
+  "catalog/wall-ring-holder": {
+   "volume": 127529.55984049443,
+   "solids": 1
+  },
+  "catalog/swab-jar": {
+   "volume": 63526.72187779472,
+   "solids": 2
+  },
+  "catalog/drain-strainer": {
+   "volume": 3991.571747239772,
+   "solids": 64
+  },
+  "catalog/mirror-clip": {
+   "volume": 4379.496391774473,
+   "solids": 1
+  },
+  "catalog/shower-shelf": {
+   "volume": 918258.7744017806,
+   "solids": 57
+  },
+  "catalog/shower-curtain-ring": {
+   "volume": 2409.4626997145656,
+   "solids": 1
+  },
+  "catalog/broom-holder": {
+   "volume": 38391.965554356706,
+   "solids": 6
+  },
+  "catalog/tool-rack": {
+   "volume": 206772.73648909785,
+   "solids": 1
+  },
+  "catalog/bit-index": {
+   "volume": 37628.80599199977,
+   "solids": 1
+  },
+  "catalog/socket-rail": {
+   "volume": 21173.215314335048,
+   "solids": 5
+  },
+  "catalog/hose-adapter": {
+   "volume": 66983.09591078474,
+   "solids": 1
+  },
+  "catalog/rope-winder": {
+   "volume": 8413.592894744623,
+   "solids": 2
+  },
+  "catalog/sanding-block": {
+   "volume": 206461.34827956016,
+   "solids": 1
+  },
+  "catalog/blade-peg": {
+   "volume": 389.6556638155593,
+   "solids": 4
+  },
+  "catalog/ladder-hook": {
+   "volume": 144258.64234280816,
+   "solids": 1
+  },
+  "catalog/bench-dog": {
+   "volume": 15842.308724368124,
+   "solids": 1
+  },
+  "catalog/battery-holder": {
+   "volume": 114731.49996933527,
+   "solids": 1
+  },
+  "catalog/plant-pot": {
+   "volume": 103364.13954818927,
+   "solids": 2
+  },
+  "catalog/self-watering-planter": {
+   "volume": 178737.96214777397,
+   "solids": 2
+  },
+  "catalog/hanging-planter": {
+   "volume": 127498.49082191964,
+   "solids": 1
+  },
+  "catalog/wall-planter": {
+   "volume": 97024.09767754636,
+   "solids": 1
+  },
+  "catalog/window-box": {
+   "volume": 663.5043684381644,
+   "solids": 3
+  },
+  "catalog/plant-marker": {
+   "volume": 15521.874223577219,
+   "solids": 3
+  },
+  "catalog/plant-clip": {
+   "volume": 1915.1756726386232,
+   "solids": 1
+  },
+  "catalog/hose-guide": {
+   "volume": 170902.94518211667,
+   "solids": 1
+  },
+  "catalog/bottle-waterer": {
+   "volume": 12369.982574398338,
+   "solids": 3
+  },
+  "catalog/birdhouse": {
+   "volume": 304701.43466285965,
+   "solids": 2
+  },
+  "catalog/bird-feeder": {
+   "volume": 110854.55835710482,
+   "solids": 1
+  },
+  "catalog/rain-gauge": {
+   "volume": 107028.92676967794,
+   "solids": 1
+  },
+  "catalog/pot-feet": {
+   "volume": 39452.15473706458,
+   "solids": 3
+  },
+  "catalog/seed-starter": {
+   "volume": 347337.8322560597,
+   "solids": 11
+  },
+  "catalog/cable-clip": {
+   "volume": 1130.7349230544132,
+   "solids": 1
+  },
+  "catalog/project-box": {
+   "volume": 5241.235891230571,
+   "solids": 16
+  },
+  "catalog/pcb-case": {
+   "volume": 12728.438602595685,
+   "solids": 6
+  },
+  "catalog/cable-winder": {
+   "volume": 4951.701256071324,
+   "solids": 1
+  },
+  "catalog/wire-channel": {
+   "volume": 9584.000000000005,
+   "solids": 1
+  },
+  "catalog/strip-clip": {
+   "volume": 413.8265511396021,
+   "solids": 1
+  },
+  "catalog/device-bracket": {
+   "volume": 9629.473159970474,
+   "solids": 1
+  },
+  "catalog/fan-grill": {
+   "volume": 232.352192659501,
+   "solids": 4
+  },
+  "catalog/charging-dock": {
+   "volume": 2292.772500000001,
+   "solids": 2
+  },
+  "catalog/cable-tag": {
+   "volume": 635.9509632766143,
+   "solids": 1
+  },
+  "catalog/soldering-stand": {
+   "volume": 20297.002919997132,
+   "solids": 3
+  },
+  "catalog/furniture-foot": {
+   "volume": 61444.31631646038,
+   "solids": 1
+  },
+  "catalog/leg-cap": {
+   "volume": 17088.65554008984,
+   "solids": 1
+  },
+  "catalog/cabinet-knob": {
+   "volume": 8691.917126293536,
+   "solids": 1
+  },
+  "catalog/drawer-pull": {
+   "volume": 22133.491330498215,
+   "solids": 1
+  },
+  "catalog/door-wedge": {
+   "volume": 76489.32165335615,
+   "solids": 1
+  },
+  "catalog/shelf-pin": {
+   "volume": 802.9233783402098,
+   "solids": 1
+  },
+  "catalog/wall-plate": {
+   "volume": 1242.7184792952148,
+   "solids": 5
+  },
+  "catalog/rod-bracket": {
+   "volume": 38277.34177556303,
+   "solids": 1
+  },
+  "catalog/door-bumper": {
+   "volume": 26184.97429402616,
+   "solids": 1
+  },
+  "catalog/spacer": {
+   "volume": 455.17750559699056,
+   "solids": 1
+  },
+  "catalog/hole-plug": {
+   "volume": 532.482923530879,
+   "solids": 1
+  },
+  "catalog/barrel-hinge": {
+   "volume": 9822.591344057957,
+   "solids": 3
+  },
+  "catalog/push-up-handles": {
+   "volume": 274355.07504605316,
+   "solids": 3
+  },
+  "catalog/ball-stand": {
+   "volume": 27415.006964062006,
+   "solids": 1
+  },
+  "catalog/sports-wall-rack": {
+   "volume": 64515.1528429014,
+   "solids": 1
+  },
+  "catalog/band-anchor": {
+   "volume": 27200.797050951664,
+   "solids": 1
+  },
+  "catalog/jump-rope-handles": {
+   "volume": 150027.45800889283,
+   "solids": 2
+  },
+  "catalog/treadmill-holder": {
+   "volume": 34088.16349035424,
+   "solids": 1
+  },
+  "catalog/dumbbell-cradle": {
+   "volume": 606491.9274829178,
+   "solids": 2
+  },
+  "catalog/plate-peg": {
+   "volume": 292072.05371222174,
+   "solids": 1
+  },
+  "catalog/puck-stand": {
+   "volume": 29641.248000000014,
+   "solids": 1
+  },
+  "catalog/controller-stand": {
+   "volume": 103156.47357510043,
+   "solids": 1
+  },
+  "catalog/controller-wall-mount": {
+   "volume": 37614.40678935612,
+   "solids": 1
+  },
+  "catalog/headset-stand": {
+   "volume": 538993.738371102,
+   "solids": 1
+  },
+  "catalog/console-mount": {
+   "volume": 92728.81357871232,
+   "solids": 2
+  },
+  "catalog/cartridge-holder": {
+   "volume": 89658.61000000007,
+   "solids": 1
+  },
+  "catalog/dice-tower": {
+   "volume": 157918.31586510997,
+   "solids": 1
+  },
+  "catalog/deck-box": {
+   "volume": 169289.2006587698,
+   "solids": 2
+  },
+  "catalog/token-tray": {
+   "volume": 324597.6417584375,
+   "solids": 6
+  },
+  "catalog/mouse-bungee": {
+   "volume": 73401.76722783207,
+   "solids": 2
+  },
+  "catalog/display-riser": {
+   "volume": 220320.00000000032,
+   "solids": 1
+  },
+  "catalog/media-stand": {
+   "volume": 89380.0662401411,
+   "solids": 1
+  },
+  "catalog/pet-food-scoop": {
+   "volume": 919174.1692844221,
+   "solids": 4
+  },
+  "catalog/bowl-stand": {
+   "volume": 2034145.5302361413,
+   "solids": 6
+  },
+  "catalog/pet-bowl": {
+   "volume": 82767.37129916866,
+   "solids": 1
+  },
+  "catalog/poop-bag-dispenser": {
+   "volume": 22886.266265292885,
+   "solids": 2
+  },
+  "catalog/leash-rack": {
+   "volume": 26756.88439703869,
+   "solids": 5
+  },
+  "catalog/aquarium-clip": {
+   "volume": 1924.5828573498425,
+   "solids": 1
+  },
+  "catalog/feeding-ring": {
+   "volume": 22370.657632891725,
+   "solids": 1
+  },
+  "catalog/treat-roller": {
+   "volume": 104783.10253290391,
+   "solids": 2
+  },
+  "catalog/treat-ball": {
+   "volume": 36309.90407567625,
+   "solids": 7
+  },
+  "catalog/cat-wall-step": {
+   "volume": 432616.19953043136,
+   "solids": 1
+  },
+  "catalog/small-animal-hide": {
+   "volume": 112065.86836989885,
+   "solids": 1
+  },
+  "catalog/pet-food-can-lid": {
+   "volume": 18321.054449654537,
+   "solids": 1
+  },
+  "catalog/tent-stake": {
+   "volume": 12007.63012254204,
+   "solids": 1
+  },
+  "catalog/carabiner": {
+   "volume": 645.8400000000001,
+   "solids": 2
+  },
+  "catalog/strap-slider": {
+   "volume": 871.2000000000004,
+   "solids": 2
+  },
+  "catalog/bottle-clip": {
+   "volume": 3044.9385707500105,
+   "solids": 1
+  },
+  "catalog/camp-cup": {
+   "volume": 85727.80779832056,
+   "solids": 1
+  },
+  "catalog/strap-buckle": {
+   "volume": 9062.269599999998,
+   "solids": 2
+  },
+  "catalog/line-tensioner": {
+   "volume": 187.128966411076,
+   "solids": 3
+  },
+  "catalog/phone-tripod-mount": {
+   "volume": 17717.72759597633,
+   "solids": 1
+  },
+  "catalog/pole-sleeve": {
+   "volume": 6241.6000465088555,
+   "solids": 1
+  },
+  "catalog/fidget-spinner": {
+   "volume": 14744.125150370051,
+   "solids": 1
+  },
+  "catalog/spinning-top": {
+   "volume": 31372.699305585287,
+   "solids": 1
+  },
+  "catalog/ring-toy": {
+   "volume": 233169.17639543774,
+   "solids": 6
+  },
+  "catalog/building-brick": {
+   "volume": 2087.8379797733646,
+   "solids": 1
+  },
+  "catalog/tangram": {
+   "volume": 104503.28512794586,
+   "solids": 8
+  },
+  "catalog/maze-puzzle": {
+   "volume": 70987.99999999996,
+   "solids": 1
+  },
+  "catalog/block-puzzle": {
+   "volume": 151445.76000000013,
+   "solids": 12
+  },
+  "catalog/game-dice": {
+   "volume": 409.24702830242677,
+   "solids": 21
+  },
+  "catalog/marble-run": {
+   "volume": 41489.76169772946,
+   "solids": 1
+  },
+  "catalog/boomerang": {
+   "volume": 10701.596967357971,
+   "solids": 1
+  },
+  "catalog/toy-wheels": {
+   "volume": 28929.362843559855,
+   "solids": 4
+  },
+  "catalog/bubble-wand": {
+   "volume": 11927.608751051443,
+   "solids": 1
+  },
+  "catalog/spool-holder": {
+   "volume": 355907.4894045272,
+   "solids": 4
+  },
+  "catalog/spool-adapter": {
+   "volume": 23005.662839424946,
+   "solids": 1
+  },
+  "catalog/filament-clip": {
+   "volume": 1154.042272641134,
+   "solids": 1
+  },
+  "catalog/filament-guide": {
+   "volume": 6394.074704514994,
+   "solids": 1
+  },
+  "catalog/nozzle-holder": {
+   "volume": 15211.072742051903,
+   "solids": 1
+  },
+  "catalog/calibration-cube": {
+   "volume": 7847.168000000004,
+   "solids": 1
+  },
+  "catalog/tolerance-test": {
+   "volume": 5256.274285651343,
+   "solids": 6
+  },
+  "catalog/bridge-test": {
+   "volume": 6960.000000000001,
+   "solids": 1
+  },
+  "catalog/overhang-test": {
+   "volume": 6208.87844564532,
+   "solids": 1
+  },
+  "catalog/temp-tower": {
+   "volume": 15795.0098098435,
+   "solids": 1
+  },
+  "catalog/printer-foot": {
+   "volume": 21732.78399529733,
+   "solids": 1
+  },
+  "catalog/bed-clip": {
+   "volume": 1261.2000000000005,
+   "solids": 1
+  },
+  "catalog/filament-swatch": {
+   "volume": 13910.393797973724,
+   "solids": 4
+  },
+  "catalog/vent-phone-mount": {
+   "volume": 26404.199999999997,
+   "solids": 1
+  },
+  "catalog/cup-holder-adapter": {
+   "volume": 307439.5189519146,
+   "solids": 1
+  },
+  "catalog/coin-holder": {
+   "volume": 117817.81557729573,
+   "solids": 12
+  },
+  "catalog/headrest-hook": {
+   "volume": 7169.510852405413,
+   "solids": 1
+  },
+  "catalog/visor-clip": {
+   "volume": 7006.750000000011,
+   "solids": 1
+  },
+  "catalog/bike-hanger": {
+   "volume": 278255.4339039898,
+   "solids": 1
+  },
+  "catalog/handlebar-mount": {
+   "volume": 20214.25752552948,
+   "solids": 1
+  },
+  "catalog/bottle-cage": {
+   "volume": 155941.66289720443,
+   "solids": 4
+  },
+  "catalog/tire-lever": {
+   "volume": 11084.040000000006,
+   "solids": 1
+  },
+  "catalog/wheel-chock": {
+   "volume": 1169580.8333817907,
+   "solids": 1
+  },
+  "catalog/hitch-cover": {
+   "volume": 36769.2324,
+   "solids": 2
+  },
+  "catalog/vase": {
+   "volume": 73620.6479165972,
+   "solids": 1
+  },
+  "catalog/candle-holder": {
+   "volume": 15214.136318731205,
+   "solids": 1
+  },
+  "catalog/coaster": {
+   "volume": 31556.73271863177,
+   "solids": 1
+  },
+  "catalog/ornament": {
+   "volume": 6052.076455062371,
+   "solids": 1
+  },
+  "catalog/napkin-ring": {
+   "volume": 10602.87520586557,
+   "solids": 1
+  },
+  "catalog/card-stand": {
+   "volume": 23280.000000000015,
+   "solids": 1
+  },
+  "catalog/trinket-dish": {
+   "volume": 16403.82604071916,
+   "solids": 1
+  },
+  "catalog/hex-shelf": {
+   "volume": 234330.2029133096,
+   "solids": 1
+  },
+  "catalog/christmas-tree": {
+   "volume": 8507.432905921165,
+   "solids": 2
+  },
+  "catalog/lamp-shade": {
+   "volume": 134485.99903596108,
+   "solids": 1
+  },
+  "catalog/light-clip": {
+   "volume": 993.9018265024239,
+   "solids": 1
+  },
+  "catalog/jar-opener": {
+   "volume": 157784.94470118365,
+   "solids": 5
+  },
+  "catalog/key-turner": {
+   "volume": 4999.3744319326015,
+   "solids": 8
+  },
+  "catalog/utensil-grip": {
+   "volume": 67688.4338074453,
+   "solids": 1
+  },
+  "catalog/knob-lever": {
+   "volume": 64105.71651720939,
+   "solids": 3
+  },
+  "catalog/button-hook": {
+   "volume": 480.127402640991,
+   "solids": 2
+  },
+  "catalog/pull-loop": {
+   "volume": 3785.744811281843,
+   "solids": 2
+  },
+  "catalog/page-holder": {
+   "volume": 2090.729910964009,
+   "solids": 1
+  },
+  "catalog/card-hand-holder": {
+   "volume": 129048.75000000004,
+   "solids": 1
+  },
+  "catalog/cup-handle": {
+   "volume": 220279.32670951192,
+   "solids": 3
+  },
+  "catalog/pill-splitter": {
+   "volume": 34050.69000000001,
+   "solids": 1
+  },
+  "catalog/plate-guard": {
+   "volume": 72282.57737204288,
+   "solids": 1
+  },
+  "catalog/cane-holder": {
+   "volume": 11995.01655886531,
+   "solids": 1
+  },
+  "catalog/phone-grip": {
+   "volume": 8084.2292579906825,
+   "solids": 1
+  },
+  "examples/elephant": {
+   "volume": 62230.50601754447,
+   "solids": 1
+  },
+  "examples/knob": {
+   "volume": 9823.620698427285,
+   "solids": 1
+  },
+  "examples/orca-bobble": {
+   "volume": 58768.293578832796,
+   "solids": 4
+  },
+  "examples/printmotor-assembly": {
+   "refused": "B B517: boolean Union on 'P.CU499' failed: boolean: unsupported tangent-curve surface intersection between faces 0/135 and 1/1: the carriers touch along a tangent curve from (34.500000,0.000000,54.510000) to (34.500000,0.000000,54.500000) (length 0.010000, 2 stations) which the imprint does not buil"
+  },
+  "examples/printmotor-hairpin": {
+   "volume": 660338.638590944,
+   "solids": 43
+  },
+  "examples/printmotor-pods": {
+   "volume": 385912.8237543833,
+   "solids": 13
+  },
+  "examples/pulley-assembly": {
+   "volume": 27715.405045688887,
+   "solids": 9
+  },
+  "examples/screwdriver-holder": {
+   "volume": 4411.501231853666,
+   "solids": 1
+  }
+ },
+ "when": "2026-11-08"
+}

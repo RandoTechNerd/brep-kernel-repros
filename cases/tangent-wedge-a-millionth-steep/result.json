@@ -1,0 +1,127 @@
+{
+ "features": [
+  {
+   "type": "P.CU",
+   "inputParams": {
+    "id": "P.CU1",
+    "sizeX": 10,
+    "sizeY": 10,
+    "sizeZ": 10,
+    "transform": {
+     "position": [
+      -5,
+      -5,
+      -10
+     ],
+     "rotationEuler": [
+      0,
+      0,
+      0
+     ],
+     "scale": [
+      1,
+      1,
+      1
+     ]
+    },
+    "boolean": {
+     "targets": [],
+     "operation": "NONE"
+    }
+   },
+   "persistentData": {},
+   "timestamp": null
+  },
+  {
+   "type": "P.CU",
+   "inputParams": {
+    "id": "P.CU2",
+    "sizeX": 40,
+    "sizeY": 40,
+    "sizeZ": 20,
+    "transform": {
+     "position": [
+      -20,
+      -19.99999999999,
+      -0.00001999999999999
+     ],
+     "rotationEuler": [
+      0.000057295779513063235,
+      0,
+      0
+     ],
+     "scale": [
+      1,
+      0.9999999999999999,
+      0.9999999999999999
+     ]
+    },
+    "boolean": {
+     "targets": [],
+     "operation": "NONE"
+    }
+   },
+   "persistentData": {},
+   "timestamp": null
+  },
+  {
+   "type": "B",
+   "inputParams": {
+    "id": "B3",
+    "targetSolid": "P.CU1",
+    "boolean": {
+     "targets": [
+      "P.CU2"
+     ],
+     "operation": "INTERSECT"
+    }
+   },
+   "persistentData": {},
+   "timestamp": null
+  }
+ ],
+ "idCounter": 3,
+ "expressions": "//Examples:\nx = 10 + 6; \ny = x * 2;\n\nresolution = 32;\n",
+ "configurator": {
+  "fields": [],
+  "values": {}
+ },
+ "activeWorkbench": "MODELING",
+ "pmiViews": [],
+ "simulation": {
+  "motions": []
+ },
+ "cam": {
+  "machineProfile": {
+   "name": "Generic 3 Axis Mill",
+   "controller": "grbl",
+   "units": "mm",
+   "maxSpindleRPM": 24000,
+   "defaultRapidRate": 2500,
+   "safeParkZ": 15,
+   "tokenSpacer": true,
+   "stripComments": false,
+   "header": "",
+   "footer": ""
+  },
+  "stockProfile": {
+   "mode": "auto",
+   "margin": 6.35,
+   "sizeX": null,
+   "sizeY": null,
+   "sizeZ": null,
+   "offsetX": 0,
+   "offsetY": 0,
+   "offsetZ": 0
+  },
+  "operations": []
+ },
+ "sheets2D": [],
+ "wireHarness": {
+  "connections": [],
+  "routeResults": []
+ },
+ "metadata": {},
+ "assemblyConstraints": [],
+ "assemblyConstraintIdCounter": 0
+}

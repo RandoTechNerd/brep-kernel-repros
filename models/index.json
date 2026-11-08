@@ -1,0 +1,1833 @@
+[
+ {
+  "id": "phone-stand",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 11,
+  "file": "catalog/phone-stand.json"
+ },
+ {
+  "id": "headphone-hanger",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 9,
+  "file": "catalog/headphone-hanger.json"
+ },
+ {
+  "id": "pen-cup",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 3,
+  "file": "catalog/pen-cup.json"
+ },
+ {
+  "id": "vertical-organizer",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/vertical-organizer.json"
+ },
+ {
+  "id": "riser-leg",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 18,
+  "file": "catalog/riser-leg.json"
+ },
+ {
+  "id": "laptop-stand",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 18,
+  "file": "catalog/laptop-stand.json"
+ },
+ {
+  "id": "cable-grommet",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 12,
+  "file": "catalog/cable-grommet.json"
+ },
+ {
+  "id": "wrist-rest",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 18,
+  "file": "catalog/wrist-rest.json"
+ },
+ {
+  "id": "note-tray",
+  "kind": "catalog",
+  "meshSteps": 4,
+  "refused": null,
+  "features": 6,
+  "file": "catalog/note-tray.json"
+ },
+ {
+  "id": "monitor-shelf",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/monitor-shelf.json"
+ },
+ {
+  "id": "bookend",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 8,
+  "file": "catalog/bookend.json"
+ },
+ {
+  "id": "under-desk-tray",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 9,
+  "file": "catalog/under-desk-tray.json"
+ },
+ {
+  "id": "tape-dispenser",
+  "kind": "catalog",
+  "meshSteps": 3,
+  "refused": null,
+  "features": 58,
+  "file": "catalog/tape-dispenser.json"
+ },
+ {
+  "id": "mini-monitor-easel",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 66,
+  "file": "catalog/mini-monitor-easel.json"
+ },
+ {
+  "id": "cradle-hook",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 6,
+  "file": "catalog/cradle-hook.json"
+ },
+ {
+  "id": "wall-shelf",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 22,
+  "file": "catalog/wall-shelf.json"
+ },
+ {
+  "id": "coat-hook",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 8,
+  "file": "catalog/coat-hook.json"
+ },
+ {
+  "id": "key-rack",
+  "kind": "catalog",
+  "meshSteps": 4,
+  "refused": null,
+  "features": 21,
+  "file": "catalog/key-rack.json"
+ },
+ {
+  "id": "guitar-hanger",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 10,
+  "file": "catalog/guitar-hanger.json"
+ },
+ {
+  "id": "french-cleat",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 11,
+  "file": "catalog/french-cleat.json"
+ },
+ {
+  "id": "cleat-hook",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 7,
+  "file": "catalog/cleat-hook.json"
+ },
+ {
+  "id": "pegboard-hook",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 7,
+  "file": "catalog/pegboard-hook.json"
+ },
+ {
+  "id": "pegboard-bin",
+  "kind": "catalog",
+  "meshSteps": 4,
+  "refused": null,
+  "features": 18,
+  "file": "catalog/pegboard-bin.json"
+ },
+ {
+  "id": "skadis-bin",
+  "kind": "catalog",
+  "meshSteps": 4,
+  "refused": null,
+  "features": 18,
+  "file": "catalog/skadis-bin.json"
+ },
+ {
+  "id": "mail-holder",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 14,
+  "file": "catalog/mail-holder.json"
+ },
+ {
+  "id": "picture-hook",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 5,
+  "file": "catalog/picture-hook.json"
+ },
+ {
+  "id": "door-hook",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 3,
+  "file": "catalog/door-hook.json"
+ },
+ {
+  "id": "s-hook",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 10,
+  "file": "catalog/s-hook.json"
+ },
+ {
+  "id": "storage-box",
+  "kind": "catalog",
+  "meshSteps": 8,
+  "refused": null,
+  "noExactDoc": true
+ },
+ {
+  "id": "stackable-bin",
+  "kind": "catalog",
+  "meshSteps": 9,
+  "refused": null,
+  "features": 1,
+  "file": "catalog/stackable-bin.json"
+ },
+ {
+  "id": "gridfinity-bin",
+  "kind": "catalog",
+  "meshSteps": 16,
+  "refused": null,
+  "noExactDoc": true
+ },
+ {
+  "id": "gridfinity-baseplate",
+  "kind": "catalog",
+  "meshSteps": 38,
+  "refused": null,
+  "noExactDoc": true
+ },
+ {
+  "id": "drawer-divider",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 35,
+  "file": "catalog/drawer-divider.json"
+ },
+ {
+  "id": "battery-organizer",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 24,
+  "file": "catalog/battery-organizer.json"
+ },
+ {
+  "id": "card-holder",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 20,
+  "file": "catalog/card-holder.json"
+ },
+ {
+  "id": "label-holder",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 10,
+  "file": "catalog/label-holder.json"
+ },
+ {
+  "id": "drawer-cabinet",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 29,
+  "file": "catalog/drawer-cabinet.json"
+ },
+ {
+  "id": "capsule-tube",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 6,
+  "file": "catalog/capsule-tube.json"
+ },
+ {
+  "id": "bag-clip",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/bag-clip.json"
+ },
+ {
+  "id": "measuring-scoop",
+  "kind": "catalog",
+  "meshSteps": 4,
+  "refused": null,
+  "features": 9,
+  "file": "catalog/measuring-scoop.json"
+ },
+ {
+  "id": "funnel",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 11,
+  "file": "catalog/funnel.json"
+ },
+ {
+  "id": "spice-rack",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 9,
+  "file": "catalog/spice-rack.json"
+ },
+ {
+  "id": "spice-drawer",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 13,
+  "file": "catalog/spice-drawer.json"
+ },
+ {
+  "id": "pod-tower",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 18,
+  "file": "catalog/pod-tower.json"
+ },
+ {
+  "id": "lid-rack",
+  "kind": "catalog",
+  "meshSteps": 8,
+  "refused": null,
+  "noExactDoc": true
+ },
+ {
+  "id": "egg-tray",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 72,
+  "file": "catalog/egg-tray.json"
+ },
+ {
+  "id": "mug-tree",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 28,
+  "file": "catalog/mug-tree.json"
+ },
+ {
+  "id": "bottle-rack",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/bottle-rack.json"
+ },
+ {
+  "id": "cookie-cutter",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 12,
+  "file": "catalog/cookie-cutter.json"
+ },
+ {
+  "id": "spoon-rest",
+  "kind": "catalog",
+  "meshSteps": 4,
+  "refused": null,
+  "features": 1,
+  "file": "catalog/spoon-rest.json"
+ },
+ {
+  "id": "citrus-juicer",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 53,
+  "file": "catalog/citrus-juicer.json"
+ },
+ {
+  "id": "toothbrush-stand",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 12,
+  "file": "catalog/toothbrush-stand.json"
+ },
+ {
+  "id": "toothbrush-rack",
+  "kind": "catalog",
+  "meshSteps": 7,
+  "refused": null,
+  "features": 38,
+  "file": "catalog/toothbrush-rack.json"
+ },
+ {
+  "id": "soap-dish",
+  "kind": "catalog",
+  "meshSteps": 15,
+  "refused": null,
+  "features": 42,
+  "file": "catalog/soap-dish.json"
+ },
+ {
+  "id": "toothpaste-squeezer",
+  "kind": "catalog",
+  "meshSteps": 4,
+  "refused": null,
+  "features": 6,
+  "file": "catalog/toothpaste-squeezer.json"
+ },
+ {
+  "id": "toilet-roll-holder",
+  "kind": "catalog",
+  "meshSteps": 4,
+  "refused": null,
+  "features": 12,
+  "file": "catalog/toilet-roll-holder.json"
+ },
+ {
+  "id": "roll-stand",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 14,
+  "file": "catalog/roll-stand.json"
+ },
+ {
+  "id": "wall-ring-holder",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 23,
+  "file": "catalog/wall-ring-holder.json"
+ },
+ {
+  "id": "swab-jar",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 10,
+  "file": "catalog/swab-jar.json"
+ },
+ {
+  "id": "drain-strainer",
+  "kind": "catalog",
+  "meshSteps": 8,
+  "refused": null,
+  "features": 100,
+  "file": "catalog/drain-strainer.json"
+ },
+ {
+  "id": "mirror-clip",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 10,
+  "file": "catalog/mirror-clip.json"
+ },
+ {
+  "id": "shower-shelf",
+  "kind": "catalog",
+  "meshSteps": 9,
+  "refused": null,
+  "features": 75,
+  "file": "catalog/shower-shelf.json"
+ },
+ {
+  "id": "shower-curtain-ring",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 17,
+  "file": "catalog/shower-curtain-ring.json"
+ },
+ {
+  "id": "broom-holder",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 9,
+  "file": "catalog/broom-holder.json"
+ },
+ {
+  "id": "tool-rack",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 19,
+  "file": "catalog/tool-rack.json"
+ },
+ {
+  "id": "bit-index",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 84,
+  "file": "catalog/bit-index.json"
+ },
+ {
+  "id": "socket-rail",
+  "kind": "catalog",
+  "meshSteps": 10,
+  "refused": null,
+  "features": 5,
+  "file": "catalog/socket-rail.json"
+ },
+ {
+  "id": "hose-adapter",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 9,
+  "file": "catalog/hose-adapter.json"
+ },
+ {
+  "id": "rope-winder",
+  "kind": "catalog",
+  "meshSteps": 5,
+  "refused": null,
+  "features": 2,
+  "file": "catalog/rope-winder.json"
+ },
+ {
+  "id": "sanding-block",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 13,
+  "file": "catalog/sanding-block.json"
+ },
+ {
+  "id": "blade-peg",
+  "kind": "catalog",
+  "meshSteps": 4,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/blade-peg.json"
+ },
+ {
+  "id": "ladder-hook",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 6,
+  "file": "catalog/ladder-hook.json"
+ },
+ {
+  "id": "bench-dog",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 6,
+  "file": "catalog/bench-dog.json"
+ },
+ {
+  "id": "battery-holder",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 14,
+  "file": "catalog/battery-holder.json"
+ },
+ {
+  "id": "plant-pot",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 10,
+  "file": "catalog/plant-pot.json"
+ },
+ {
+  "id": "self-watering-planter",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 17,
+  "file": "catalog/self-watering-planter.json"
+ },
+ {
+  "id": "hanging-planter",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 23,
+  "file": "catalog/hanging-planter.json"
+ },
+ {
+  "id": "wall-planter",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 15,
+  "file": "catalog/wall-planter.json"
+ },
+ {
+  "id": "window-box",
+  "kind": "catalog",
+  "meshSteps": 3,
+  "refused": null,
+  "features": 3,
+  "file": "catalog/window-box.json"
+ },
+ {
+  "id": "seedling-tray",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": "a 4-sided cone ($fn=4) would come out round on the Rust kernel",
+  "noExactDoc": true
+ },
+ {
+  "id": "plant-marker",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 27,
+  "file": "catalog/plant-marker.json"
+ },
+ {
+  "id": "plant-clip",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 10,
+  "file": "catalog/plant-clip.json"
+ },
+ {
+  "id": "hose-guide",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 7,
+  "file": "catalog/hose-guide.json"
+ },
+ {
+  "id": "bottle-waterer",
+  "kind": "catalog",
+  "meshSteps": 3,
+  "refused": null,
+  "features": 12,
+  "file": "catalog/bottle-waterer.json"
+ },
+ {
+  "id": "birdhouse",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 27,
+  "file": "catalog/birdhouse.json"
+ },
+ {
+  "id": "bird-feeder",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 26,
+  "file": "catalog/bird-feeder.json"
+ },
+ {
+  "id": "rain-gauge",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 15,
+  "file": "catalog/rain-gauge.json"
+ },
+ {
+  "id": "pot-feet",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 27,
+  "file": "catalog/pot-feet.json"
+ },
+ {
+  "id": "seed-starter",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 675,
+  "file": "catalog/seed-starter.json"
+ },
+ {
+  "id": "cable-clip",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 15,
+  "file": "catalog/cable-clip.json"
+ },
+ {
+  "id": "project-box",
+  "kind": "catalog",
+  "meshSteps": 7,
+  "refused": null,
+  "features": 16,
+  "file": "catalog/project-box.json"
+ },
+ {
+  "id": "pcb-case",
+  "kind": "catalog",
+  "meshSteps": 17,
+  "refused": null,
+  "features": 14,
+  "file": "catalog/pcb-case.json"
+ },
+ {
+  "id": "cable-winder",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 8,
+  "file": "catalog/cable-winder.json"
+ },
+ {
+  "id": "wire-channel",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/wire-channel.json"
+ },
+ {
+  "id": "strip-clip",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 6,
+  "file": "catalog/strip-clip.json"
+ },
+ {
+  "id": "device-bracket",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 6,
+  "file": "catalog/device-bracket.json"
+ },
+ {
+  "id": "fan-grill",
+  "kind": "catalog",
+  "meshSteps": 13,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/fan-grill.json"
+ },
+ {
+  "id": "charging-dock",
+  "kind": "catalog",
+  "meshSteps": 3,
+  "refused": null,
+  "features": 5,
+  "file": "catalog/charging-dock.json"
+ },
+ {
+  "id": "cable-tag",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 8,
+  "file": "catalog/cable-tag.json"
+ },
+ {
+  "id": "soldering-stand",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 17,
+  "file": "catalog/soldering-stand.json"
+ },
+ {
+  "id": "furniture-foot",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/furniture-foot.json"
+ },
+ {
+  "id": "leg-cap",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 1,
+  "file": "catalog/leg-cap.json"
+ },
+ {
+  "id": "bed-riser",
+  "kind": "catalog",
+  "meshSteps": 3,
+  "refused": null,
+  "noExactDoc": true
+ },
+ {
+  "id": "cabinet-knob",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/cabinet-knob.json"
+ },
+ {
+  "id": "drawer-pull",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 19,
+  "file": "catalog/drawer-pull.json"
+ },
+ {
+  "id": "door-wedge",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 6,
+  "file": "catalog/door-wedge.json"
+ },
+ {
+  "id": "shelf-pin",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 9,
+  "file": "catalog/shelf-pin.json"
+ },
+ {
+  "id": "wall-plate",
+  "kind": "catalog",
+  "meshSteps": 3,
+  "refused": null,
+  "features": 8,
+  "file": "catalog/wall-plate.json"
+ },
+ {
+  "id": "rod-bracket",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 12,
+  "file": "catalog/rod-bracket.json"
+ },
+ {
+  "id": "door-bumper",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 9,
+  "file": "catalog/door-bumper.json"
+ },
+ {
+  "id": "spacer",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 3,
+  "file": "catalog/spacer.json"
+ },
+ {
+  "id": "hole-plug",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 6,
+  "file": "catalog/hole-plug.json"
+ },
+ {
+  "id": "barrel-hinge",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 68,
+  "file": "catalog/barrel-hinge.json"
+ },
+ {
+  "id": "push-up-handles",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 31,
+  "file": "catalog/push-up-handles.json"
+ },
+ {
+  "id": "yoga-block",
+  "kind": "catalog",
+  "meshSteps": 1,
+  "refused": null,
+  "noExactDoc": true
+ },
+ {
+  "id": "ball-stand",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/ball-stand.json"
+ },
+ {
+  "id": "sports-wall-rack",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 33,
+  "file": "catalog/sports-wall-rack.json"
+ },
+ {
+  "id": "band-anchor",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 16,
+  "file": "catalog/band-anchor.json"
+ },
+ {
+  "id": "jump-rope-handles",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 14,
+  "file": "catalog/jump-rope-handles.json"
+ },
+ {
+  "id": "treadmill-holder",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/treadmill-holder.json"
+ },
+ {
+  "id": "dumbbell-cradle",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 14,
+  "file": "catalog/dumbbell-cradle.json"
+ },
+ {
+  "id": "plate-peg",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 15,
+  "file": "catalog/plate-peg.json"
+ },
+ {
+  "id": "puck-stand",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 1,
+  "file": "catalog/puck-stand.json"
+ },
+ {
+  "id": "controller-stand",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 9,
+  "file": "catalog/controller-stand.json"
+ },
+ {
+  "id": "controller-wall-mount",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 7,
+  "file": "catalog/controller-wall-mount.json"
+ },
+ {
+  "id": "headset-stand",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/headset-stand.json"
+ },
+ {
+  "id": "console-mount",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 14,
+  "file": "catalog/console-mount.json"
+ },
+ {
+  "id": "cartridge-holder",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 23,
+  "file": "catalog/cartridge-holder.json"
+ },
+ {
+  "id": "dice-tower",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 24,
+  "file": "catalog/dice-tower.json"
+ },
+ {
+  "id": "deck-box",
+  "kind": "catalog",
+  "meshSteps": 7,
+  "refused": null,
+  "features": 2,
+  "file": "catalog/deck-box.json"
+ },
+ {
+  "id": "token-tray",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 24,
+  "file": "catalog/token-tray.json"
+ },
+ {
+  "id": "mouse-bungee",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 7,
+  "file": "catalog/mouse-bungee.json"
+ },
+ {
+  "id": "display-riser",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 9,
+  "file": "catalog/display-riser.json"
+ },
+ {
+  "id": "media-stand",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/media-stand.json"
+ },
+ {
+  "id": "pet-food-scoop",
+  "kind": "catalog",
+  "meshSteps": 3,
+  "refused": null,
+  "features": 36,
+  "file": "catalog/pet-food-scoop.json"
+ },
+ {
+  "id": "bowl-stand",
+  "kind": "catalog",
+  "meshSteps": 6,
+  "refused": null,
+  "features": 15,
+  "file": "catalog/bowl-stand.json"
+ },
+ {
+  "id": "pet-bowl",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/pet-bowl.json"
+ },
+ {
+  "id": "poop-bag-dispenser",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 13,
+  "file": "catalog/poop-bag-dispenser.json"
+ },
+ {
+  "id": "leash-rack",
+  "kind": "catalog",
+  "meshSteps": 3,
+  "refused": null,
+  "features": 22,
+  "file": "catalog/leash-rack.json"
+ },
+ {
+  "id": "aquarium-clip",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 9,
+  "file": "catalog/aquarium-clip.json"
+ },
+ {
+  "id": "feeding-ring",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 13,
+  "file": "catalog/feeding-ring.json"
+ },
+ {
+  "id": "treat-roller",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 48,
+  "file": "catalog/treat-roller.json"
+ },
+ {
+  "id": "treat-ball",
+  "kind": "catalog",
+  "meshSteps": 6,
+  "refused": null,
+  "features": 33,
+  "file": "catalog/treat-ball.json"
+ },
+ {
+  "id": "cat-wall-step",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 20,
+  "file": "catalog/cat-wall-step.json"
+ },
+ {
+  "id": "small-animal-hide",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 30,
+  "file": "catalog/small-animal-hide.json"
+ },
+ {
+  "id": "pet-food-can-lid",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/pet-food-can-lid.json"
+ },
+ {
+  "id": "travel-case",
+  "kind": "catalog",
+  "meshSteps": 8,
+  "refused": null,
+  "noExactDoc": true
+ },
+ {
+  "id": "tent-stake",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 19,
+  "file": "catalog/tent-stake.json"
+ },
+ {
+  "id": "carabiner",
+  "kind": "catalog",
+  "meshSteps": 5,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/carabiner.json"
+ },
+ {
+  "id": "strap-slider",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 2,
+  "file": "catalog/strap-slider.json"
+ },
+ {
+  "id": "bottle-clip",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 8,
+  "file": "catalog/bottle-clip.json"
+ },
+ {
+  "id": "camp-cup",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 15,
+  "file": "catalog/camp-cup.json"
+ },
+ {
+  "id": "strap-buckle",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 18,
+  "file": "catalog/strap-buckle.json"
+ },
+ {
+  "id": "line-tensioner",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 3,
+  "file": "catalog/line-tensioner.json"
+ },
+ {
+  "id": "phone-tripod-mount",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 10,
+  "file": "catalog/phone-tripod-mount.json"
+ },
+ {
+  "id": "pole-sleeve",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/pole-sleeve.json"
+ },
+ {
+  "id": "fidget-spinner",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 16,
+  "file": "catalog/fidget-spinner.json"
+ },
+ {
+  "id": "spinning-top",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/spinning-top.json"
+ },
+ {
+  "id": "ring-toy",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 19,
+  "file": "catalog/ring-toy.json"
+ },
+ {
+  "id": "building-brick",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 23,
+  "file": "catalog/building-brick.json"
+ },
+ {
+  "id": "tangram",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 31,
+  "file": "catalog/tangram.json"
+ },
+ {
+  "id": "maze-puzzle",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 33,
+  "file": "catalog/maze-puzzle.json"
+ },
+ {
+  "id": "block-puzzle",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 59,
+  "file": "catalog/block-puzzle.json"
+ },
+ {
+  "id": "game-dice",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 21,
+  "file": "catalog/game-dice.json"
+ },
+ {
+  "id": "marble-run",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 3,
+  "file": "catalog/marble-run.json"
+ },
+ {
+  "id": "boomerang",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 18,
+  "file": "catalog/boomerang.json"
+ },
+ {
+  "id": "toy-wheels",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 36,
+  "file": "catalog/toy-wheels.json"
+ },
+ {
+  "id": "bubble-wand",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 9,
+  "file": "catalog/bubble-wand.json"
+ },
+ {
+  "id": "spool-holder",
+  "kind": "catalog",
+  "meshSteps": 3,
+  "refused": null,
+  "features": 15,
+  "file": "catalog/spool-holder.json"
+ },
+ {
+  "id": "spool-adapter",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 14,
+  "file": "catalog/spool-adapter.json"
+ },
+ {
+  "id": "filament-clip",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 7,
+  "file": "catalog/filament-clip.json"
+ },
+ {
+  "id": "filament-guide",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 20,
+  "file": "catalog/filament-guide.json"
+ },
+ {
+  "id": "nozzle-holder",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 16,
+  "file": "catalog/nozzle-holder.json"
+ },
+ {
+  "id": "calibration-cube",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 8,
+  "file": "catalog/calibration-cube.json"
+ },
+ {
+  "id": "tolerance-test",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 16,
+  "file": "catalog/tolerance-test.json"
+ },
+ {
+  "id": "bridge-test",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 9,
+  "file": "catalog/bridge-test.json"
+ },
+ {
+  "id": "overhang-test",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 26,
+  "file": "catalog/overhang-test.json"
+ },
+ {
+  "id": "temp-tower",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 57,
+  "file": "catalog/temp-tower.json"
+ },
+ {
+  "id": "printer-foot",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 3,
+  "file": "catalog/printer-foot.json"
+ },
+ {
+  "id": "bed-clip",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 3,
+  "file": "catalog/bed-clip.json"
+ },
+ {
+  "id": "filament-swatch",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/filament-swatch.json"
+ },
+ {
+  "id": "vent-phone-mount",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 42,
+  "file": "catalog/vent-phone-mount.json"
+ },
+ {
+  "id": "cup-holder-adapter",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 9,
+  "file": "catalog/cup-holder-adapter.json"
+ },
+ {
+  "id": "coin-holder",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 12,
+  "file": "catalog/coin-holder.json"
+ },
+ {
+  "id": "headrest-hook",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 7,
+  "file": "catalog/headrest-hook.json"
+ },
+ {
+  "id": "visor-clip",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 21,
+  "file": "catalog/visor-clip.json"
+ },
+ {
+  "id": "bike-hanger",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 9,
+  "file": "catalog/bike-hanger.json"
+ },
+ {
+  "id": "handlebar-mount",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 33,
+  "file": "catalog/handlebar-mount.json"
+ },
+ {
+  "id": "bottle-cage",
+  "kind": "catalog",
+  "meshSteps": 3,
+  "refused": null,
+  "features": 12,
+  "file": "catalog/bottle-cage.json"
+ },
+ {
+  "id": "tire-lever",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/tire-lever.json"
+ },
+ {
+  "id": "wheel-chock",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 6,
+  "file": "catalog/wheel-chock.json"
+ },
+ {
+  "id": "hitch-cover",
+  "kind": "catalog",
+  "meshSteps": 5,
+  "refused": null,
+  "features": 6,
+  "file": "catalog/hitch-cover.json"
+ },
+ {
+  "id": "vase",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/vase.json"
+ },
+ {
+  "id": "candle-holder",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 6,
+  "file": "catalog/candle-holder.json"
+ },
+ {
+  "id": "coaster",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 21,
+  "file": "catalog/coaster.json"
+ },
+ {
+  "id": "ornament",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 12,
+  "file": "catalog/ornament.json"
+ },
+ {
+  "id": "napkin-ring",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 3,
+  "file": "catalog/napkin-ring.json"
+ },
+ {
+  "id": "card-stand",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 6,
+  "file": "catalog/card-stand.json"
+ },
+ {
+  "id": "trinket-dish",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/trinket-dish.json"
+ },
+ {
+  "id": "hex-shelf",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 11,
+  "file": "catalog/hex-shelf.json"
+ },
+ {
+  "id": "christmas-tree",
+  "kind": "catalog",
+  "meshSteps": 5,
+  "refused": null,
+  "features": 2,
+  "file": "catalog/christmas-tree.json"
+ },
+ {
+  "id": "lamp-shade",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 21,
+  "file": "catalog/lamp-shade.json"
+ },
+ {
+  "id": "light-clip",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 10,
+  "file": "catalog/light-clip.json"
+ },
+ {
+  "id": "jar-opener",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 17,
+  "file": "catalog/jar-opener.json"
+ },
+ {
+  "id": "key-turner",
+  "kind": "catalog",
+  "meshSteps": 4,
+  "refused": null,
+  "features": 8,
+  "file": "catalog/key-turner.json"
+ },
+ {
+  "id": "utensil-grip",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 4,
+  "file": "catalog/utensil-grip.json"
+ },
+ {
+  "id": "knob-lever",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 3,
+  "file": "catalog/knob-lever.json"
+ },
+ {
+  "id": "button-hook",
+  "kind": "catalog",
+  "meshSteps": 7,
+  "refused": null,
+  "features": 2,
+  "file": "catalog/button-hook.json"
+ },
+ {
+  "id": "pull-loop",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 2,
+  "file": "catalog/pull-loop.json"
+ },
+ {
+  "id": "page-holder",
+  "kind": "catalog",
+  "meshSteps": 2,
+  "refused": null,
+  "features": 1,
+  "file": "catalog/page-holder.json"
+ },
+ {
+  "id": "card-hand-holder",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 9,
+  "file": "catalog/card-hand-holder.json"
+ },
+ {
+  "id": "cup-handle",
+  "kind": "catalog",
+  "meshSteps": 4,
+  "refused": null,
+  "features": 6,
+  "file": "catalog/cup-handle.json"
+ },
+ {
+  "id": "pill-splitter",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 6,
+  "file": "catalog/pill-splitter.json"
+ },
+ {
+  "id": "plate-guard",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 11,
+  "file": "catalog/plate-guard.json"
+ },
+ {
+  "id": "cane-holder",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 9,
+  "file": "catalog/cane-holder.json"
+ },
+ {
+  "id": "phone-grip",
+  "kind": "catalog",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 9,
+  "file": "catalog/phone-grip.json"
+ },
+ {
+  "id": "sock-aid",
+  "kind": "catalog",
+  "meshSteps": 4,
+  "refused": null,
+  "noExactDoc": true
+ },
+ {
+  "id": "bracket",
+  "kind": "examples",
+  "compileError": "Cannot use import statement outside a module"
+ },
+ {
+  "id": "coin-dish",
+  "kind": "examples",
+  "compileError": "Cannot use import statement outside a module"
+ },
+ {
+  "id": "elephant",
+  "kind": "examples",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 32,
+  "file": "examples/elephant.json"
+ },
+ {
+  "id": "knob",
+  "kind": "examples",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 18,
+  "file": "examples/knob.json"
+ },
+ {
+  "id": "ltt-collar",
+  "kind": "examples",
+  "compileError": "Cannot use import statement outside a module"
+ },
+ {
+  "id": "ltt-cradle",
+  "kind": "examples",
+  "compileError": "Cannot use import statement outside a module"
+ },
+ {
+  "id": "mini-centrifuge",
+  "kind": "examples",
+  "compileError": "Cannot use import statement outside a module"
+ },
+ {
+  "id": "orca-bobble-parts",
+  "kind": "examples",
+  "compileError": "Unexpected identifier 'halfBelow'"
+ },
+ {
+  "id": "orca-bobble",
+  "kind": "examples",
+  "meshSteps": 6,
+  "refused": null,
+  "features": 21,
+  "file": "examples/orca-bobble.json"
+ },
+ {
+  "id": "printmotor-assembly",
+  "kind": "examples",
+  "meshSteps": 0,
+  "refused": "Rust kernel, B B517: boolean Union on 'P.CU499' failed: boolean: unsupported tangent-curve surface intersection between faces 0/135 and 1/1: the carriers touch along a tangent curve from (34.500000,0.000000,54.510000) to (34.500000,0.000000,54.500000) (length 0.010000, 2 stations) which the imprint ",
+  "features": 621,
+  "file": "examples/printmotor-assembly.json"
+ },
+ {
+  "id": "printmotor-hairpin",
+  "kind": "examples",
+  "meshSteps": 293,
+  "refused": null,
+  "features": 887,
+  "file": "examples/printmotor-hairpin.json"
+ },
+ {
+  "id": "printmotor-pods",
+  "kind": "examples",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 406,
+  "file": "examples/printmotor-pods.json"
+ },
+ {
+  "id": "pulley-assembly",
+  "kind": "examples",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 37,
+  "file": "examples/pulley-assembly.json"
+ },
+ {
+  "id": "remove-feet",
+  "kind": "examples",
+  "compileError": "Cannot use import statement outside a module"
+ },
+ {
+  "id": "screwdriver-holder",
+  "kind": "examples",
+  "meshSteps": 0,
+  "refused": null,
+  "features": 11,
+  "file": "examples/screwdriver-holder.json"
+ },
+ {
+  "id": "snapmaker-u1",
+  "kind": "examples",
+  "compileError": "text is not defined"
+ }
+]

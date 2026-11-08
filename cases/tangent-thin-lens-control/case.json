@@ -1,0 +1,13 @@
+{
+  "title": "Control: two r5 balls 9.999 apart: the lens common to both",
+  "histories": {
+    "result": "two r5 balls 9.999 apart: the lens common to both"
+  },
+  "check": {
+    "type": "volume",
+    "of": "result",
+    "expected": 0.00000785371983457798,
+    "relTolerance": 0.000001
+  },
+  "expect": "0.000007853719835 mm³ (closed form, as brep-bench's tangent/thin-lens)"
+}

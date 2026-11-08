@@ -1,28 +1,66 @@
+cases/
+
 PASS  delete-fillet-faces-control
-      result 24000.000 mm³, expected 24000
+      result 24000.000 mm³, expected 24000.000
 FAIL  delete-one-top-chamfer-face
       result refused: DF DF3: delete_face_and_heal: moved edge 19 leaves face 129 by 3.000e0 (a point of it lies -3.000e0 from the face where the edge lay +0.000e0 from it before the heal) — a blend's end runs into a vertex of a face the heal does not read as its neighbour; refusing rather than re-trimming the face around an edge off it
 PASS  delete-one-upright-chamfer-face-control
-      result 24000.000 mm³, expected 24000
+      result 24000.000 mm³, expected 24000.000
 FAIL  delete-top-chamfer-faces
       result refused: DF DF3: delete_face_and_heal: moved edge 19 leaves face 129 by 3.000e0 (a point of it lies -3.000e0 from the face where the edge lay +0.000e0 from it before the heal) — a blend's end runs into a vertex of a face the heal does not read as its neighbour; refusing rather than re-trimming the face around an edge off it
 PASS  delete-upright-chamfer-faces-control
-      result 24000.000 mm³, expected 24000
+      result 24000.000 mm³, expected 24000.000
+PASS  edge-name-kernel-order-control
+      result 23725.310 mm³, expected 23725.310
+FAIL  edge-name-reversed-order
+      result refused: F F2: fillet: none of the 4 selected references resolves on this model (`P.CU1_PX|P.CU1_NY[0]`, `P.CU1_NY|P.CU1_NX[0]`, `P.CU1_PY|P.CU1_NX[0]`, `P.CU1_PY|P.CU1_PX[0]`); a blend of nothing is not a result, so the selection is refused — repair the references and rerun
+FAIL  fillet-chamfer-corner-delete-chamfers
+      result refused: DF DF4: delete_face_and_heal: no re-intersection branch of the extended carriers spans the deleted strip — refusing rather than emitting an invalid solid (delete_face_and_heal: cannot extend the fitted carrier of face 271 past its UMin boundary — the extension folds back: the cross-boundary tangent turns 119.86° (limit 90.00°))
+PASS  fillet-chamfer-corner-delete-fillets
+      result 23730.667 mm³, must be between 23584.165 and 24000
+FAIL  fillet-chamfer-corner-tilt-side
+      result refused: TF TF4: rotate_faces: boundary edge 141 of `P.CU1_PX` (face 135) is a straight ruling of its neighbour `F2:BLEND:P.CU1_NY|P.CU1_PX[0]` (face 151) general surface of revolution — the face is tangent to that carrier or runs along its axis, as beside a fillet band — and a rotation re-intersects a cylinder or cone only where the face cuts it in a conic — refusing
 PASS  intersect-box-starting-on-face-control
-      result 12000.000 mm³, expected 12000
+      result 12000.000 mm³, expected 12000.000
 FAIL  intersect-face-touching
       result refused: B B3: boolean Intersect on 'P.CU2' failed: boolean assembly: operation produced no boundary faces
 PASS  intersect-shared-planes-control
-      result 6000.000 mm³, expected 6000
+      result 6000.000 mm³, expected 6000.000
 PASS  step-delete-fillet-faces-control
-      result 24000.000 mm³, expected 24000
+      result 24000.000 mm³, expected 24000.000
 FAIL  step-delete-one-top-chamfer-face
       result refused: DF DF2: delete_face_and_heal: moved edge 21 leaves face 62 by 3.000e0 (a point of it lies -3.000e0 from the face where the edge lay +0.000e0 from it before the heal) — a blend's end runs into a vertex of a face the heal does not read as its neighbour; refusing rather than re-trimming the face around an edge off it
 PASS  step-delete-one-upright-chamfer-face-control
-      result 24000.000 mm³, expected 24000
+      result 24000.000 mm³, expected 24000.000
 FAIL  step-delete-top-chamfer-faces
       result refused: DF DF2: delete_face_and_heal: moved edge 21 leaves face 62 by 3.000e0 (a point of it lies -3.000e0 from the face where the edge lay +0.000e0 from it before the heal) — a blend's end runs into a vertex of a face the heal does not read as its neighbour; refusing rather than re-trimming the face around an edge off it
 PASS  step-delete-upright-chamfer-faces-control
-      result 24000.000 mm³, expected 24000
+      result 24000.000 mm³, expected 24000.000
+FAIL  tangent-bore-a-micron-from-the-wall
+      result refused: B B3: boolean SUBTRACT failed: boolean assembly produced invalid topology (S=1 genus=0): [ValidationIssue { severity: "error", kind: Other, message: "loop 2 of face 2 is open between coedges 5 and 6" }, ValidationIssue { severity: "error", kind: Other, message: "loop 2 of face 2 is open between coedges 6 and 5" }, ValidationIssue { severity: "error", kind: Other, message: "loop 3 of face 3 is open between coedges 7 and 8" }, ValidationIssue { severity: "error", kind: Other, message: "loop 3 of face 3 is open between coedges 8 and 7" }]; open edges []; on faces []; internal tangency: the operands touch tangentially with co-directed normals, so the exact difference pinches to zero thickness (non-manifold, unrepresentable in a boundary model) — refusing rather than returning a perturbed sliver
+PASS  tangent-bore-a-micron-from-the-wall-control
+      result 282.743 mm³, expected 282.743
+FAIL  tangent-hairline-slot
+      result refused: B B3: boolean SUBTRACT failed: boolean assembly: non-integral genus (V=13 E=20 F=8 H=0 S=1 shell_faces=[[1, 2, 3, 4, 5, 6, 7, 8]] one_use=4 [20, 15, 13, 10] one_use_geometry=[(20, false, 1, Vec3 { x: 5.0, y: -7.401486830834378e-17, z: 10.0 }, Vec3 { x: 5.0, y: 5.0, z: 10.0 }, Vec3 { x: 5.0, y: 10.0, z: 10.0 }), (15, false, 1, Vec3 { x: 10.0, y: 0.0, z: 10.0 }, Vec3 { x: 10.0, y: 5.0, z: 10.0 }, Vec3 { x: 10.0, y: 10.0, z: 10.0 }), (13, false, 1, Vec3 { x: 5.0, y: 10.0, z: 10.0 }, Vec3 { x: 7.5, y: 10.0, z: 10.0 }, Vec3 { x: 10.0, y: 10.0, z: 10.0 }), (10, false, 1, Vec3 { x: 5.0, y: -7.401486830834378e-17, z: 10.0 }, Vec3 { x: 7.5, y: 0.0, z: 10.0 }, Vec3 { x: 10.0, y: 0.0, z: 10.0 })] geometric_matches=[] one_use_by_face={3: 1, 8: 1, 6: 1, 4: 1} overused=0 []); on faces [3 'P.CU1_NY' x1, 4 'P.CU1_PY' x1, 6 'P.CU1_PX' x1, 8 'P.CU2_PX' x1]
+PASS  tangent-hairline-slot-control
+      result 999.950 mm³, expected 999.950
+FAIL  tangent-thin-lens
+      result refused: B B3: boolean Intersect on 'P.S2' failed: boolean assembly: operation produced no boundary faces
+PASS  tangent-thin-lens-control
+      result 7.853720e-6 mm³, expected 7.853720e-6
+FAIL  tangent-wedge-a-millionth-steep
+      result refused: B B3: boolean Intersect on 'P.CU2' failed: boolean assembly: operation produced no boundary faces
+PASS  tangent-wedge-a-millionth-steep-control
+      result 0.125 mm³, expected 0.125
+FAIL  tilt-side-beside-fillet
+      result refused: TF TF3: rotate_faces: boundary edge 141 of `P.CU1_PX` (face 135) is a straight ruling of its neighbour `F2:BLEND:P.CU1_NY|P.CU1_PX[0]` (face 151) general surface of revolution — the face is tangent to that carrier or runs along its axis, as beside a fillet band — and a rotation re-intersects a cylinder or cone only where the face cuts it in a conic — refusing
+PASS  tilt-side-plain-block-control
+      result built, 24000.000 mm³
 
-8 passed, 5 failed
+models/ (volume against models/baseline.json)
+
+FAIL  examples/printmotor-assembly
+      refused: B B517: boolean Union on 'P.CU499' failed: boolean: unsupported tangent-curve surface intersection between faces 0/135 and 1/1: the carriers touch along a tangent curve from (34.500000,0.000000,54.510 (refused in the baseline too)
+(passing models not listed; kernel time for the ones that built: 48.9 s)
+
+230 passed, 14 failed

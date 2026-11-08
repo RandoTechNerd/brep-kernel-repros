@@ -1,0 +1,13 @@
+{
+  "title": "The same fillet with each edge named B|A (the same edges, faces swapped)",
+  "histories": {
+    "result": "40x30x20 block, F r4 on the same 4 edges named P.CU1_PX|P.CU1_NY etc."
+  },
+  "check": {
+    "type": "volume",
+    "of": "result",
+    "expected": 23725.309649,
+    "tolerance": 0.01
+  },
+  "expect": "the same edges, so the same result; an API nicety, not a bug (BREPcode sorts the names itself)"
+}

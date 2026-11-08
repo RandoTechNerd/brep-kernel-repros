@@ -1,0 +1,11 @@
+{
+  "title": "Control: the same tilt on the plain block",
+  "histories": {
+    "result": "40x30x20 block, TF turning the +x face 3 degrees about z"
+  },
+  "check": {
+    "type": "builds",
+    "of": "result"
+  },
+  "expect": "builds"
+}

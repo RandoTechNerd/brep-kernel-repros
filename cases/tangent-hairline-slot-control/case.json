@@ -1,0 +1,13 @@
+{
+  "title": "Control: 10 mm cube less a saw cut 0.001 wide, 5 deep",
+  "histories": {
+    "result": "10 mm cube less a saw cut 0.001 wide, 5 deep"
+  },
+  "check": {
+    "type": "volume",
+    "of": "result",
+    "expected": 999.95,
+    "relTolerance": 0.000001
+  },
+  "expect": "999.9500000 mm³ (closed form, as brep-bench's tangent/hairline-slot)"
+}

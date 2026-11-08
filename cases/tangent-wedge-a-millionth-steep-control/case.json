@@ -1,0 +1,13 @@
+{
+  "title": "Control: cube (-5,-5,-10)..(5,5,0) above the plane z = 0.001 y",
+  "histories": {
+    "result": "cube (-5,-5,-10)..(5,5,0) above the plane z = 0.001 y"
+  },
+  "check": {
+    "type": "volume",
+    "of": "result",
+    "expected": 0.125,
+    "relTolerance": 0.000001
+  },
+  "expect": "0.1250000000 mm³ (closed form, as brep-bench's tangent/wedge-a-millionth-steep)"
+}

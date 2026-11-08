@@ -1,0 +1,11 @@
+{
+  "title": "Tilt a side face of a block whose upright edges are filleted (no chamfer, no corner patch)",
+  "histories": {
+    "result": "filleted block, TF turning the +x face 3 degrees about z"
+  },
+  "check": {
+    "type": "builds",
+    "of": "result"
+  },
+  "expect": "builds (the tilted face re-meets its fillets)"
+}

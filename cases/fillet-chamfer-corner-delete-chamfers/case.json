@@ -1,0 +1,14 @@
+{
+  "title": "Fillet meets chamfer: delete the chamfer faces",
+  "histories": {
+    "block": "40x30x20 block, upright edges filleted r3, then the top edges chamfered 2 (the chamfer runs round the fillets, a free-form patch at each corner)",
+    "result": "the same, then DF on the slanted faces"
+  },
+  "check": {
+    "type": "grows",
+    "of": "result",
+    "from": "block",
+    "below": 24000
+  },
+  "expect": "builds: back to the filleted block (24000 - 20 * 4 * (9 - 9π/4) = 23845.5 mm³)"
+}

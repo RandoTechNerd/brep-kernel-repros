@@ -1,0 +1,12 @@
+{
+  "title": "Fillet meets chamfer: tilt a side face that touches the corner patches",
+  "histories": {
+    "block": "40x30x20 block, upright edges filleted r3, then the top edges chamfered 2 (the chamfer runs round the fillets, a free-form patch at each corner)",
+    "result": "the same, then TF turning the +x face 3 degrees about z"
+  },
+  "check": {
+    "type": "builds",
+    "of": "result"
+  },
+  "expect": "builds"
+}

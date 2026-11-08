@@ -1,0 +1,14 @@
+{
+  "title": "Fillet meets chamfer: delete the fillet faces",
+  "histories": {
+    "block": "40x30x20 block, upright edges filleted r3, then the top edges chamfered 2 (the chamfer runs round the fillets, a free-form patch at each corner)",
+    "result": "the same, then DF on the curved faces"
+  },
+  "check": {
+    "type": "grows",
+    "of": "result",
+    "from": "block",
+    "below": 24000
+  },
+  "expect": "builds: the fillets gone, the chamfer still round the top"
+}

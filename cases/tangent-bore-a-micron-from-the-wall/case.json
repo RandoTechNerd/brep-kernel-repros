@@ -1,0 +1,13 @@
+{
+  "title": "cylinder r5 h10 less a r4 drill at x = 0.999999: the wall 0.000001 thick",
+  "histories": {
+    "result": "cylinder r5 h10 less a r4 drill at x = 0.999999: the wall 0.000001 thick"
+  },
+  "check": {
+    "type": "volume",
+    "of": "result",
+    "expected": 282.7433388230814,
+    "relTolerance": 0.000001
+  },
+  "expect": "282.7433388 mm³ (closed form, as brep-bench's tangent/bore-a-micron-from-the-wall)"
+}
