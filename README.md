@@ -11,6 +11,14 @@ histories the kernel executes. There are two sets:
   refuses, and a passing control next to it, so the difference shows what
   triggers the refusal.
 
+![The models](previews/overview.png)
+
+More sheets: [catalog 1](previews/catalog-1.png), [2](previews/catalog-2.png),
+[3](previews/catalog-3.png), [4](previews/catalog-4.png), [5](previews/catalog-5.png),
+[examples](previews/examples.png), [repro cases](previews/cases.png). Every tile is
+rendered from the history in this repo by the kernel itself (0.13.2). Models with
+mesh steps show only the part the kernel builds.
+
 Every file is exactly what was passed to `execute_history_json`, compiled by
 BREPcode (brepcode.com) to the kernel's own feature dialect. Running them needs
 nothing from BREPcode.
